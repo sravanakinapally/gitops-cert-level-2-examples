@@ -26,5 +26,5 @@ spec:
     - group: apps
       kind: Secret
       jsonPointers:
-      - /data  
+      - /data/my-password
    
